@@ -2,7 +2,7 @@
 
 We can use the [editor on GitHub](https://github.com/msaf9/msaf9.github.io/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
 
-Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever we commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in our site, from the content in your Markdown files.
 
 ### Markdown
 
